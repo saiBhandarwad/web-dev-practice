@@ -36,3 +36,13 @@
     font-size: 1rem;
     margin-bottom: 0.5rem;
 }
+.card button{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #686b68;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
